@@ -1,5 +1,4 @@
 # mowneshachar.github.io
-Its my self introduction page
 
 #Angular project
 
